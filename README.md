@@ -5,7 +5,7 @@ vanillacoin-node is a Vanillacoin client for Node.js. It is a fork of the excell
 *Basic example:*
 Install it from npmjs:
 ~~~
-ñpm install vanillacoin-node
+npm install vanillacoin-node
 ~~~
 
 Create a test.js file:
