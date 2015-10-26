@@ -12,8 +12,6 @@ Create a test.js file:
 ~~~js
 var vanillacoin = require('vanillacoin-node')()
 
-vanillacoin.auth('user', '')
-
 vanillacoin.getInfo(function() {
     console.log(arguments);
 })
