@@ -1,0 +1,10 @@
+{
+    "name": "vanillacoin",
+    "version": "0.0.1",
+    "description": "Vanillacoin client",
+    "keywords": ["vanillacoin"],
+    "repository": "git://github.com/xCoreDev/vanillacoin-node.git",
+    "author": "xCore <xCoreDev@protonmail.com>",
+    "main": "lib/vanillacoin.js",
+    "engines": { "node": ">= 0.4.0" }
+}
