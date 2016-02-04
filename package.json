@@ -1,6 +1,6 @@
 {
     "name": "vanillacoin-node",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Vanillacoin client",
     "keywords": ["vanillacoin"],
     "repository": "git://github.com/xCoreDev/vanillacoin-node.git",
